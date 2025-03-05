@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:Pancakeboy1987/Pancakeboy1987.github.io.git
+	branch = main
